@@ -3,14 +3,10 @@ An asexual model, consisting of discrete-time equations to simulate the dynamics
 of a two-genotype model with St and Eu morphs. Companion to Lightfoot et al.
 """
 
-__author__ = 'Ata Kalirad, Arne Traulsen & Stefano Giaimo'
-
+from __future__ import division
 import numpy as np
 
-import sys
-
-if sys.version_info[0] < 3:
-    raise Exception("Python 3 or a more recent version is required.")
+__author__ = 'Ata Kalirad, Arne Traulsen & Stefano Giaimo'
 
 # Two-genotype version
 
