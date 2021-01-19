@@ -9,6 +9,6 @@ Lightfoot, J.W., Dardiry, M., Kalirad, A., Giaimo, S., Eberhardt, G., Witte, H.,
 
 ## Contents:
 
-+ asexual_model.py: The model written in Python 3.7.
++ asexual_model.py: The model written in Python 2.7.
 
 + asexual_model_demo.ipynb: ipython notebook illustrating the use of asexual_model.py.  
